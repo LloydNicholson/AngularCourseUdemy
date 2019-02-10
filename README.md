@@ -1,7 +1,5 @@
 My Udemy project that is being used to practice and gain experience using Angular 7 and Angular CLI.
 
-
-
 # NewAngularCourseProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
